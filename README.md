@@ -51,14 +51,6 @@ Market_Basket_Analysis
 
 ## How to Run
 
-1. Install required libraries:
-
-pip install pandas mlxtend matplotlib seaborn
-
-2. Run the project:
-
-python market_basket.py
-
 ## Output
 
 The project generates:
